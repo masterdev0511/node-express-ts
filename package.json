@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-express-api",
+  "name": "node-express-typescript",
   "version": "1.0.0",
   "description": "TypeScript Node Express API Starter Project",
   "scripts": {
@@ -47,8 +47,7 @@
     "starter"
   ],
   "private": true,
-  "authors": ["Kabir Baidhya <kabirbaidhya@gmail.com>"],
-  "license": "MIT",
+  "authors": ["Gong <master.dev0511@gmail.com>"],
   "dependencies": {
     "aws-sdk": "^2.80.0",
     "babel-polyfill": "^6.26.0",
